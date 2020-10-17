@@ -85,7 +85,7 @@
     "csp-parse": "0.0.2",
     "csv-parse": "^4.8.8",
     "csv-parser": "^2.3.3",
-    "del": "^4.1.1",
+    "del": "^6.0.0",
     "dependency-check": "^4.1.0",
     "domwaiter": "^1.1.0",
     "event-to-promise": "^0.8.0",
